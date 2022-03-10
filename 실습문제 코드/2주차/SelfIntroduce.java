@@ -5,7 +5,7 @@ public class SelfIntroduce {
         String name;    // 이름
         Scanner scan = new Scanner(System.in);
 
-        // 이 부분을 채워주세요
+        name = scan.next();
 
         System.out.printf("안녕하세요 저는 %s 입니다.", name);
         scan.close();
