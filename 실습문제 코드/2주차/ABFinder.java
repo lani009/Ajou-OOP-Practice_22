@@ -1,5 +1,3 @@
-package practice02;
-
 public class ABFinder {
     public static void main(String[] args) {
         int[][] abArray = new int[100][2]; // A와 B의 조합을 담는 배열
