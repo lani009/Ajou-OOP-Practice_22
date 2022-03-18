@@ -22,5 +22,6 @@ public class ArrayListTest {
 
         strList.remove(2); // 2번째 element를 리스트에서 삭제
         strList.remove("HI"); // HI라는 값을 가진 element를 리스트에서 삭제
+
     }
 }

@@ -4,5 +4,7 @@ public class StringTest {
         String b = new String("Hello");
 
         System.out.println(a == b);
+        System.out.println(a.equals(b));
+        System.out.println(b.equals(a));
     }
 }
