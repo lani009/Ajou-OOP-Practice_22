@@ -1,87 +1,86 @@
 <?xml version="1.0" encoding="UTF-8"?>
+
 <boxOfficeResult>
     <boxofficeType>일별 박스오피스</boxofficeType>
     <showRange>20120101~20120101</showRange>
-    <dailyBoxOfficeList>
-        <dailyBoxOffice>
-            <rank>1</rank>
-            <movieCd>20112207</movieCd>
-            <movieNm>미션임파서블:고스트프로토콜</movieNm>
-            <salesAmt>2776060500</salesAmt>
-            <audiAcc>5328435</audiAcc>
-            <scrnCnt>697</scrnCnt>
-        </dailyBoxOffice>
-        <dailyBoxOffice>
-            <rank>2</rank>
-            <movieCd>20110295</movieCd>
-            <movieNm>마이 웨이</movieNm>
-            <salesAmt>1189058500</salesAmt>
-            <audiAcc>1739543</audiAcc>
-            <scrnCnt>588</scrnCnt>
-        </dailyBoxOffice>
-        <dailyBoxOffice>
-            <rank>3</rank>
-            <movieCd>20112621</movieCd>
-            <movieNm>셜록홈즈 : 그림자 게임</movieNm>
-            <salesAmt>1176022500</salesAmt>
-            <audiAcc>1442861</audiAcc>
-            <scrnCnt>360</scrnCnt>
-        </dailyBoxOffice>
-        <dailyBoxOffice>
-            <rank>4</rank>
-            <movieCd>20113260</movieCd>
-            <movieNm>퍼펙트 게임</movieNm>
-            <salesAmt>644532000</salesAmt>
-            <audiAcc>895416</audiAcc>
-            <scrnCnt>396</scrnCnt>
-        </dailyBoxOffice>
-        <dailyBoxOffice>
-            <rank>5</rank>
-            <movieCd>20113271</movieCd>
-            <movieNm>프렌즈: 몬스터섬의비밀 </movieNm>
-            <salesAmt>436753500</salesAmt>
-            <audiAcc>202909</audiAcc>
-            <scrnCnt>290</scrnCnt>
-        </dailyBoxOffice>
-        <dailyBoxOffice>
-            <rank>6</rank>
-            <movieCd>19940256</movieCd>
-            <movieNm>라이온 킹</movieNm>
-            <salesAmt>507115500</salesAmt>
-            <audiAcc>171285</audiAcc>
-            <scrnCnt>244</scrnCnt>
-        </dailyBoxOffice>
-        <dailyBoxOffice>
-            <rank>7</rank>
-            <movieCd>20113381</movieCd>
-            <movieNm>오싹한 연애</movieNm>
-            <salesAmt>344871000</salesAmt>
-            <audiAcc>2823060</audiAcc>
-            <scrnCnt>243</scrnCnt>
-        </dailyBoxOffice>
-        <dailyBoxOffice>
-            <rank>8</rank>
-            <movieCd>20112709</movieCd>
-            <movieNm>극장판 포켓몬스터 베스트 위시「비크티니와 백의 영웅 레시라무」</movieNm>
-            <salesAmt>167809500</salesAmt>
-            <audiAcc>285959</audiAcc>
-            <scrnCnt>186</scrnCnt>
-        </dailyBoxOffice>
-        <dailyBoxOffice>
-            <rank>9</rank>
-            <movieCd>20113311</movieCd>
-            <movieNm>앨빈과 슈퍼밴드3</movieNm>
-            <salesAmt>137030000</salesAmt>
-            <audiAcc>516289</audiAcc>
-            <scrnCnt>169</scrnCnt>
-        </dailyBoxOffice>
-        <dailyBoxOffice>
-            <rank>10</rank>
-            <movieCd>20112708</movieCd>
-            <movieNm>극장판 포켓몬스터 베스트 위시 「비크티니와 흑의 영웅 제크로무」</movieNm>
-            <salesAmt>125535500</salesAmt>
-            <audiAcc>235070</audiAcc>
-            <scrnCnt>175</scrnCnt>
-        </dailyBoxOffice>
-    </dailyBoxOfficeList>
+    <dailyBoxOffice>
+        <rank>1</rank>
+        <movieCd>20112207</movieCd>
+        <movieNm>미션임파서블:고스트프로토콜</movieNm>
+        <salesAmt>2776060500</salesAmt>
+        <audiAcc>5328435</audiAcc>
+        <scrnCnt>697</scrnCnt>
+    </dailyBoxOffice>
+    <dailyBoxOffice>
+        <rank>2</rank>
+        <movieCd>20110295</movieCd>
+        <movieNm>마이 웨이</movieNm>
+        <salesAmt>1189058500</salesAmt>
+        <audiAcc>1739543</audiAcc>
+        <scrnCnt>588</scrnCnt>
+    </dailyBoxOffice>
+    <dailyBoxOffice>
+        <rank>3</rank>
+        <movieCd>20112621</movieCd>
+        <movieNm>셜록홈즈 : 그림자 게임</movieNm>
+        <salesAmt>1176022500</salesAmt>
+        <audiAcc>1442861</audiAcc>
+        <scrnCnt>360</scrnCnt>
+    </dailyBoxOffice>
+    <dailyBoxOffice>
+        <rank>4</rank>
+        <movieCd>20113260</movieCd>
+        <movieNm>퍼펙트 게임</movieNm>
+        <salesAmt>644532000</salesAmt>
+        <audiAcc>895416</audiAcc>
+        <scrnCnt>396</scrnCnt>
+    </dailyBoxOffice>
+    <dailyBoxOffice>
+        <rank>5</rank>
+        <movieCd>20113271</movieCd>
+        <movieNm>프렌즈: 몬스터섬의비밀 </movieNm>
+        <salesAmt>436753500</salesAmt>
+        <audiAcc>202909</audiAcc>
+        <scrnCnt>290</scrnCnt>
+    </dailyBoxOffice>
+    <dailyBoxOffice>
+        <rank>6</rank>
+        <movieCd>19940256</movieCd>
+        <movieNm>라이온 킹</movieNm>
+        <salesAmt>507115500</salesAmt>
+        <audiAcc>171285</audiAcc>
+        <scrnCnt>244</scrnCnt>
+    </dailyBoxOffice>
+    <dailyBoxOffice>
+        <rank>7</rank>
+        <movieCd>20113381</movieCd>
+        <movieNm>오싹한 연애</movieNm>
+        <salesAmt>344871000</salesAmt>
+        <audiAcc>2823060</audiAcc>
+        <scrnCnt>243</scrnCnt>
+    </dailyBoxOffice>
+    <dailyBoxOffice>
+        <rank>8</rank>
+        <movieCd>20112709</movieCd>
+        <movieNm>극장판 포켓몬스터 베스트 위시「비크티니와 백의 영웅 레시라무」</movieNm>
+        <salesAmt>167809500</salesAmt>
+        <audiAcc>285959</audiAcc>
+        <scrnCnt>186</scrnCnt>
+    </dailyBoxOffice>
+    <dailyBoxOffice>
+        <rank>9</rank>
+        <movieCd>20113311</movieCd>
+        <movieNm>앨빈과 슈퍼밴드3</movieNm>
+        <salesAmt>137030000</salesAmt>
+        <audiAcc>516289</audiAcc>
+        <scrnCnt>169</scrnCnt>
+    </dailyBoxOffice>
+    <dailyBoxOffice>
+        <rank>10</rank>
+        <movieCd>20112708</movieCd>
+        <movieNm>극장판 포켓몬스터 베스트 위시 「비크티니와 흑의 영웅 제크로무」</movieNm>
+        <salesAmt>125535500</salesAmt>
+        <audiAcc>235070</audiAcc>
+        <scrnCnt>175</scrnCnt>
+    </dailyBoxOffice>
 </boxOfficeResult>
