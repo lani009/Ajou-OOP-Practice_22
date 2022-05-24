@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<UAVData>
+    <!-- 내 현재 위치 -->
+    <currentLocation>
+        <x>37</x>
+        <y>81</y>
+    </currentLocation>
+    <!-- UAV List -->
+    <UAV>
+        <location>
+            <x>21</x>
+            <y>-7</y>
+        </location>
+        <codeName>Falcon</codeName>
+    </UAV>
+    <UAV>
+        <location>
+            <x>-72</x>
+            <y>-39</y>
+        </location>
+        <codeName>Lightning</codeName>
+    </UAV>
+    <UAV>
+        <location>
+            <x>34</x>
+            <y>97</y>
+        </location>
+        <codeName>G45</codeName>
+    </UAV>
+    <UAV>
+        <location>
+            <x>-24</x>
+            <y>14</y>
+        </location>
+        <codeName>K84</codeName>
+    </UAV>
+    <UAV>
+        <location>
+            <x>237</x>
+            <y>-710</y>
+        </location>
+        <codeName>AN5</codeName>
+    </UAV>
+</UAVData>
