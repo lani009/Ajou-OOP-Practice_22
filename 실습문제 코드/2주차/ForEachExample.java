@@ -2,10 +2,10 @@ public class ForEachExample {
     public static void main(String[] args) {
         int[] scores = { 95, 71, 84, 93, 87, 54, 89, 32, 73 };
 
-        int min;        // 최소값
-        int max;        // 최대값
-        int sum;        // 전체함
-        double avg;     // 평균
+        int min = 0;        // 최소값
+        int max=0;        // 최대값
+        int sum=0;        // 전체함
+        double avg=0;     // 평균
 
         // 이 부분을 채워주세요
 

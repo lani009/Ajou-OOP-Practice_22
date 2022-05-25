@@ -10,6 +10,7 @@ public class Coin {
      */
     public int calcPrice() {
         // TODO 메소드를 채워주세요
+        return 0;
     }
 
     @Override
