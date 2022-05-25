@@ -1,0 +1,5 @@
+package constructor;
+
+class DefaultConstructor {
+    
+}
